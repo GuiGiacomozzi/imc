@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="altura">Altura:</string>
+    <string name="digite_sua_altura_em_metros">Digite sua altura, em metros</string>
+    <string name="peso">Peso:</string>
+    <string name="digite_seu_peso_em_kg">Digite seu peso, em kg</string>
+    <string name="verificar_imc">Verificar IMC</string>
+    <string name="diagnostico">Diagnóstico:</string>
+    <string name="abaixo_do_peso">Diagnóstico: Abaixo do peso</string>
+    <string name="peso_normal">Diagnóstico: Peso normal</string>
+    <string name="sobrepeso">Diagnóstico: Sobrepeso</string>
+    <string name="obesidade_grau_1">Diagnóstico: Obesidade grau 1</string>
+    <string name="obesidade_grau_2">Diagnóstico: Obesidade grau 2</string>
+    <string name="obesidade_grau_3">Diagnóstico: Obesidade grau 3</string>
+</resources>
